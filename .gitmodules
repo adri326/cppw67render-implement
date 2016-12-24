@@ -1,0 +1,3 @@
+[submodule "dependencies/openw67render"]
+	path = dependencies/openw67render
+	url = https://github.com/w67clement/cppw67render.git
